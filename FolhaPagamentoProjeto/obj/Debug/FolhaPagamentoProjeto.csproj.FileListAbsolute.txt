@@ -1,0 +1,10 @@
+C:\Users\eduardo.dsilva17\Documents\Visual Studio 2022\ProjetoCSharpParadaria\FolhaPagamentoProjeto\bin\Debug\FolhaPagamentoProjeto.exe.config
+C:\Users\eduardo.dsilva17\Documents\Visual Studio 2022\ProjetoCSharpParadaria\FolhaPagamentoProjeto\bin\Debug\FolhaPagamentoProjeto.exe
+C:\Users\eduardo.dsilva17\Documents\Visual Studio 2022\ProjetoCSharpParadaria\FolhaPagamentoProjeto\bin\Debug\FolhaPagamentoProjeto.pdb
+C:\Users\eduardo.dsilva17\Documents\Visual Studio 2022\ProjetoCSharpParadaria\FolhaPagamentoProjeto\obj\Debug\FolhaPagamentoProjeto.csproj.AssemblyReference.cache
+C:\Users\eduardo.dsilva17\Documents\Visual Studio 2022\ProjetoCSharpParadaria\FolhaPagamentoProjeto\obj\Debug\FolhaPagamentoProjeto.frmFolhaPagamento.resources
+C:\Users\eduardo.dsilva17\Documents\Visual Studio 2022\ProjetoCSharpParadaria\FolhaPagamentoProjeto\obj\Debug\FolhaPagamentoProjeto.Properties.Resources.resources
+C:\Users\eduardo.dsilva17\Documents\Visual Studio 2022\ProjetoCSharpParadaria\FolhaPagamentoProjeto\obj\Debug\FolhaPagamentoProjeto.csproj.GenerateResource.cache
+C:\Users\eduardo.dsilva17\Documents\Visual Studio 2022\ProjetoCSharpParadaria\FolhaPagamentoProjeto\obj\Debug\FolhaPagamentoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.dsilva17\Documents\Visual Studio 2022\ProjetoCSharpParadaria\FolhaPagamentoProjeto\obj\Debug\FolhaPagamentoProjeto.exe
+C:\Users\eduardo.dsilva17\Documents\Visual Studio 2022\ProjetoCSharpParadaria\FolhaPagamentoProjeto\obj\Debug\FolhaPagamentoProjeto.pdb

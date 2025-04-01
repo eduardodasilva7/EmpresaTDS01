@@ -28,7 +28,7 @@ namespace FolhaPagamentoProjeto
 
                 if (salario < 2259.20)
                 {
-                    txtImpostoRenda.Text = "Isento";
+                    txtImpostoRenda.Text = "0";
                 
                 }
                 else if (salario < 2826.65)
@@ -105,5 +105,7 @@ namespace FolhaPagamentoProjeto
         {
             Application.Exit();
         }
+
+        
     }
 }

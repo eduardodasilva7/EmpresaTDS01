@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\eduardo.dsilva17\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1F71ACBC-4505-4E60-9030-C83CE4D0A32C}|FolhaPagamentoProjeto\\FolhaPagamentoProjeto.csproj|C:\\Users\\eduardo.dsilva17\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\folhapagamentoprojeto\\frmfolhapagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F71ACBC-4505-4E60-9030-C83CE4D0A32C}|FolhaPagamentoProjeto\\FolhaPagamentoProjeto.csproj|solutionrelative:folhapagamentoprojeto\\frmfolhapagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1F71ACBC-4505-4E60-9030-C83CE4D0A32C}|FolhaPagamentoProjeto\\FolhaPagamentoProjeto.csproj|c:\\users\\eduardo.dsilva17\\documents\\visual studio 2022\\projetocsharpparadaria\\folhapagamentoprojeto\\frmfolhapagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F71ACBC-4505-4E60-9030-C83CE4D0A32C}|FolhaPagamentoProjeto\\FolhaPagamentoProjeto.csproj|solutionrelative:folhapagamentoprojeto\\frmfolhapagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F71ACBC-4505-4E60-9030-C83CE4D0A32C}|FolhaPagamentoProjeto\\FolhaPagamentoProjeto.csproj|c:\\users\\eduardo.dsilva17\\documents\\visual studio 2022\\projetocsharpparadaria\\folhapagamentoprojeto\\frmfolhapagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1F71ACBC-4505-4E60-9030-C83CE4D0A32C}|FolhaPagamentoProjeto\\FolhaPagamentoProjeto.csproj|solutionrelative:folhapagamentoprojeto\\frmfolhapagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1F71ACBC-4505-4E60-9030-C83CE4D0A32C}|FolhaPagamentoProjeto\\FolhaPagamentoProjeto.csproj|c:\\users\\eduardo.dsilva17\\documents\\visual studio 2022\\projetocsharpparadaria\\folhapagamentoprojeto\\frmfolhapagamento.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F71ACBC-4505-4E60-9030-C83CE4D0A32C}|FolhaPagamentoProjeto\\FolhaPagamentoProjeto.csproj|solutionrelative:folhapagamentoprojeto\\frmfolhapagamento.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,20 +30,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "frmFolhaPagamento.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo.dsilva17\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\FolhaPagamentoProjeto\\frmFolhaPagamento.Designer.cs",
+              "RelativeDocumentMoniker": "FolhaPagamentoProjeto\\frmFolhaPagamento.Designer.cs",
+              "ToolTip": "C:\\Users\\eduardo.dsilva17\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\FolhaPagamentoProjeto\\frmFolhaPagamento.Designer.cs",
+              "RelativeToolTip": "FolhaPagamentoProjeto\\frmFolhaPagamento.Designer.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADgv2UAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:26:10.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "frmFolhaPagamento.cs",
               "DocumentMoniker": "C:\\Users\\eduardo.dsilva17\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\FolhaPagamentoProjeto\\frmFolhaPagamento.cs",
               "RelativeDocumentMoniker": "FolhaPagamentoProjeto\\frmFolhaPagamento.cs",
               "ToolTip": "C:\\Users\\eduardo.dsilva17\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\FolhaPagamentoProjeto\\frmFolhaPagamento.cs",
               "RelativeToolTip": "FolhaPagamentoProjeto\\frmFolhaPagamento.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAUwFEAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwGwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T12:09:50.971Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "frmFolhaPagamento.cs [Design]",
               "DocumentMoniker": "C:\\Users\\eduardo.dsilva17\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\FolhaPagamentoProjeto\\frmFolhaPagamento.cs",
               "RelativeDocumentMoniker": "FolhaPagamentoProjeto\\frmFolhaPagamento.cs",

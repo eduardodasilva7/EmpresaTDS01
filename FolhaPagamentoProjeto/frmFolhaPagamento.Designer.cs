@@ -68,7 +68,7 @@
             // lblSalario
             // 
             this.lblSalario.AutoSize = true;
-            this.lblSalario.Location = new System.Drawing.Point(43, 142);
+            this.lblSalario.Location = new System.Drawing.Point(43, 151);
             this.lblSalario.Name = "lblSalario";
             this.lblSalario.Size = new System.Drawing.Size(58, 20);
             this.lblSalario.TabIndex = 2;
@@ -76,7 +76,7 @@
             // 
             // txtSalario
             // 
-            this.txtSalario.Location = new System.Drawing.Point(47, 165);
+            this.txtSalario.Location = new System.Drawing.Point(47, 174);
             this.txtSalario.Name = "txtSalario";
             this.txtSalario.Size = new System.Drawing.Size(100, 26);
             this.txtSalario.TabIndex = 1;
@@ -85,7 +85,7 @@
             // cbbPlanoSaude
             // 
             this.cbbPlanoSaude.AutoSize = true;
-            this.cbbPlanoSaude.Location = new System.Drawing.Point(47, 237);
+            this.cbbPlanoSaude.Location = new System.Drawing.Point(45, 257);
             this.cbbPlanoSaude.Name = "cbbPlanoSaude";
             this.cbbPlanoSaude.Size = new System.Drawing.Size(145, 24);
             this.cbbPlanoSaude.TabIndex = 2;
@@ -97,9 +97,9 @@
             this.lblClube.AutoSize = true;
             this.lblClube.Location = new System.Drawing.Point(43, 332);
             this.lblClube.Name = "lblClube";
-            this.lblClube.Size = new System.Drawing.Size(58, 20);
+            this.lblClube.Size = new System.Drawing.Size(110, 20);
             this.lblClube.TabIndex = 5;
-            this.lblClube.Text = "Salário";
+            this.lblClube.Text = "Clube de lazer";
             // 
             // cbbClube
             // 

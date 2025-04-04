@@ -71,7 +71,7 @@ namespace FolhaPagamentoProjeto
                 resLimpo = salario - resImpo;
                 txtSalarioLiquido.Text = Convert.ToString(resLimpo);
             }
-            catch
+            catch (Exception)
             {
                 MessageBox.Show("Favor inserir o valor para o salário", "Menssagem automática do sistema",
                     MessageBoxButtons.YesNoCancel,

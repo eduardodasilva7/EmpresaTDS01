@@ -8,3 +8,5 @@ C:\Users\eduardo.dsilva17\Documents\Visual Studio 2022\ProjetoCSharpParadaria\Pr
 C:\Users\eduardo.dsilva17\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetoOrientacaoObjeto\obj\Debug\ProjetoOrientacaoObjeto.csproj.CoreCompileInputs.cache
 C:\Users\eduardo.dsilva17\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetoOrientacaoObjeto\obj\Debug\ProjetoOrientacaoObjeto.exe
 C:\Users\eduardo.dsilva17\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetoOrientacaoObjeto\obj\Debug\ProjetoOrientacaoObjeto.pdb
+C:\Users\eduardo.dsilva17\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetoOrientacaoObjeto\obj\Debug\ProjetoOrientacaoObjeto.frmExecutarPessoa.resources
+C:\Users\eduardo.dsilva17\Documents\Visual Studio 2022\ProjetoCSharpParadaria\ProjetoOrientacaoObjeto\obj\Debug\ProjetoOrientacaoObjeto.frmEstruturaRepeticao.resources

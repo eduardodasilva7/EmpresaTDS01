@@ -33,6 +33,9 @@ namespace Padaria
             //valor4 = 10;
 
             //resp = valor1 + valor4;
+
+            Operacoes op = new Operacoes();
+
             double num1, num2, resp = 0;
             try
             {
@@ -46,15 +49,15 @@ namespace Padaria
 
                 if (rdbSomar.Checked)
                 {
-                    resp = num1 + num2;
+                    op.setSoma(num1, num2);
                 }
                 if (rdbSubtrair.Checked)
                 {
-                    resp = num1 - num2;
+                    op.setSubt(num1, num2);
                 }
                 if (rdbMultiplicar.Checked)
                 {
-                    resp = num1 * num2;
+                    op.setMult(num1, num2);
                 }
                 if (rdbDivisao.Checked)
                 {
@@ -65,11 +68,11 @@ namespace Padaria
                         MessageBoxIcon.Error,
                         MessageBoxDefaultButton.Button3);
                     }
-                    resp = num1 / num2;
+                    op.setDivi(num1, num2);
                 }
                    
 
-                txtResposta.Text = resp.ToString();
+                txtResposta.Text = op.getResp().ToString();
             }catch (Exception)
             {
                 MessageBox.Show("Favor inserir somente números", "Mensagem do Sistema",

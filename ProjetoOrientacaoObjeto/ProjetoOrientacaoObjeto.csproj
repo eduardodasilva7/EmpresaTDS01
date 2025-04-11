@@ -47,16 +47,35 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Calculadora.cs" />
+    <Compile Include="frmEstruturaRepeticao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEstruturaRepeticao.Designer.cs">
+      <DependentUpon>frmEstruturaRepeticao.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmExecutaObjeto.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmExecutaObjeto.Designer.cs">
       <DependentUpon>frmExecutaObjeto.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmExecutarPessoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExecutarPessoa.Designer.cs">
+      <DependentUpon>frmExecutarPessoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pessoa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmEstruturaRepeticao.resx">
+      <DependentUpon>frmEstruturaRepeticao.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmExecutaObjeto.resx">
       <DependentUpon>frmExecutaObjeto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExecutarPessoa.resx">
+      <DependentUpon>frmExecutarPessoa.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

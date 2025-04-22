@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduardo.dsilva17\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEFF114-8958-45AC-84FA-BAD6FEAB7493}|ProjetoArrays\\ProjetoArrays.csproj|c:\\users\\eduardo.dsilva17\\documents\\visual studio 2022\\projetocsharpparadaria\\projetoarrays\\frmalunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEFF114-8958-45AC-84FA-BAD6FEAB7493}|ProjetoArrays\\ProjetoArrays.csproj|solutionrelative:projetoarrays\\frmalunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEFF114-8958-45AC-84FA-BAD6FEAB7493}|ProjetoArrays\\ProjetoArrays.csproj|c:\\users\\eduardo.dsilva17\\documents\\visual studio 2022\\projetocsharpparadaria\\projetoarrays\\frmmatrizes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEFF114-8958-45AC-84FA-BAD6FEAB7493}|ProjetoArrays\\ProjetoArrays.csproj|solutionrelative:projetoarrays\\frmmatrizes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEFF114-8958-45AC-84FA-BAD6FEAB7493}|ProjetoArrays\\ProjetoArrays.csproj|c:\\users\\eduardo.dsilva17\\documents\\visual studio 2022\\projetocsharpparadaria\\projetoarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEFF114-8958-45AC-84FA-BAD6FEAB7493}|ProjetoArrays\\ProjetoArrays.csproj|solutionrelative:projetoarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEFF114-8958-45AC-84FA-BAD6FEAB7493}|ProjetoArrays\\ProjetoArrays.csproj|c:\\users\\eduardo.dsilva17\\documents\\visual studio 2022\\projetocsharpparadaria\\projetoarrays\\frmmatrizes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FEFF114-8958-45AC-84FA-BAD6FEAB7493}|ProjetoArrays\\ProjetoArrays.csproj|solutionrelative:projetoarrays\\frmmatrizes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEFF114-8958-45AC-84FA-BAD6FEAB7493}|ProjetoArrays\\ProjetoArrays.csproj|c:\\users\\eduardo.dsilva17\\documents\\visual studio 2022\\projetocsharpparadaria\\projetoarrays\\frmalunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FEFF114-8958-45AC-84FA-BAD6FEAB7493}|ProjetoArrays\\ProjetoArrays.csproj|solutionrelative:projetoarrays\\frmalunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo.dsilva17\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetoArrays\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\eduardo.dsilva17\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetoArrays\\Program.cs",
+              "RelativeToolTip": "ProjetoArrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:49:29.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAlunos.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo.dsilva17\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetoArrays\\frmAlunos.cs",
+              "RelativeDocumentMoniker": "ProjetoArrays\\frmAlunos.cs",
+              "ToolTip": "C:\\Users\\eduardo.dsilva17\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetoArrays\\frmAlunos.cs",
+              "RelativeToolTip": "ProjetoArrays\\frmAlunos.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowGwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:37:48.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMatrizes.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo.dsilva17\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetoArrays\\frmMatrizes.cs",
+              "RelativeDocumentMoniker": "ProjetoArrays\\frmMatrizes.cs",
+              "ToolTip": "C:\\Users\\eduardo.dsilva17\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetoArrays\\frmMatrizes.cs",
+              "RelativeToolTip": "ProjetoArrays\\frmMatrizes.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:11:17.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAlunos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eduardo.dsilva17\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetoArrays\\frmAlunos.cs",
+              "RelativeDocumentMoniker": "ProjetoArrays\\frmAlunos.cs",
+              "ToolTip": "C:\\Users\\eduardo.dsilva17\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetoArrays\\frmAlunos.cs [Design]",
+              "RelativeToolTip": "ProjetoArrays\\frmAlunos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:34:01.977Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMatrizes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eduardo.dsilva17\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetoArrays\\frmMatrizes.cs",
+              "RelativeDocumentMoniker": "ProjetoArrays\\frmMatrizes.cs",
+              "ToolTip": "C:\\Users\\eduardo.dsilva17\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetoArrays\\frmMatrizes.cs [Design]",
+              "RelativeToolTip": "ProjetoArrays\\frmMatrizes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:14:58.91Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

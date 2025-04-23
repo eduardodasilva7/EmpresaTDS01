@@ -19,7 +19,14 @@ namespace ProjetoArrays
 
         private void btnLimpar_Click(object sender, EventArgs e)
         {
+            txtNome.Clear();
+            txtP1.Clear();
+            txtP2.Clear();
+            txtP3.Clear();
+            txtT1.Clear();
+            txtNome.Focus();
             ltbAlunos.Items.Clear();
+
         }
 
         private void btnSair_Click(object sender, EventArgs e)
@@ -27,106 +34,102 @@ namespace ProjetoArrays
             Application.Exit();
         }
 
-        private void btnCarregaMatriz_Click(object sender, EventArgs e)
+        private void btnCarregaTurma_Click(object sender, EventArgs e)
         {
-            /*
-             nomes[0,0] = 'João';
-             nomes[0,1] = 'Pedro';
-             nomes[0,2] = 'Ana'; 
-
-             prova1[0,0] = 10;
-             prova1[0,1] = 3;
-             prova1[0,2] = 6; 
-
-             prova2[0,0] = 5;
-             prova2[0,1] = 6;
-             prova2[0,2] = 8; 
-             */
-
-            string[,] names = new string[5, 2];
-            int[,] p1 = new int[5, 2];
-            int[,] p2 = new int[5, 2];
-            int[,] p3 = new int[5, 2];
-            int[,] t1 = new int[5, 2];
-            int[,] media = new int[5, 2];
-
-            names[0, 0] = "João";
-            names[0, 1] = "Pedro";
-            names[1, 0] = "Ana";
-            names[1, 1] = "Luiz";
-            names[2, 0] = "Mariana";
-            names[2, 1] = "Carlos";
-            names[3, 0] = "Julia";
-            names[3, 1] = "Rafael";
-            names[4, 0] = "Bruna";
-            names[4, 1] = "Tiago";
-
-
-            p1[0, 0] = 10;
-            p1[0, 1] = 4;
-            p1[1, 0] = 2;
-            p1[1, 1] = 4;
-            p1[2, 0] = 7;
-            p1[2, 1] = 6;
-            p1[3, 0] = 9;
-            p1[3, 1] = 5;
-            p1[4, 0] = 8;
-            p1[4, 1] = 7;
-
-            p2[0, 0] = 9;
-            p2[0, 1] = 5;
-            p2[1, 0] = 4;
-            p2[1, 1] = 4;
-            p2[2, 0] = 6;
-            p2[2, 1] = 7;
-            p2[3, 0] = 8;
-            p2[3, 1] = 5;
-            p2[4, 0] = 9;
-            p2[4, 1] = 6;
-
-            p3[0, 0] = 10;
-            p3[0, 1] = 8;
-            p3[1, 0] = 3;
-            p3[1, 1] = 4;
-            p3[2, 0] = 8;
-            p3[2, 1] = 6;
-            p3[3, 0] = 10;
-            p3[3, 1] = 7;
-            p3[4, 0] = 7;
-            p3[4, 1] = 6;
-
-            t1[0, 0] = 6;
-            t1[0, 1] = 5;
-            t1[1, 0] = 3;
-            t1[1, 1] = 4;
-            t1[2, 0] = 7;
-            t1[2, 1] = 6;
-            t1[3, 0] = 9;
-            t1[3, 1] = 7;
-            t1[4, 0] = 8;
-            t1[4, 1] = 6;
-
-            for (int i = 0; i < 5; i++)
+            for (int i = 0; i < 2; i++)
             {
-                for(int j = 0; j <2; j++)
+                for (int j = 0; j < 5; j++)
                 {
-                    media[i, j] = (p1[i, j] + p2[i, j] + p3[i,j] + t1[i, j]) / 4;
+                    
+
+                    media[i, j] = (p1[i, j] + p2[i, j] + p3[i, j] + t1[i, j]) / 4;
                     if (media[i, j] >= 6)
                     {
                         ltbAlunos.Items.Add($"{names[i, j]}: {media[i, j]} Aprovado");
+
                     }
-                    else if(media[i, j] >= 4)
+                    else if (media[i, j] >= 4)
                     {
                         ltbAlunos.Items.Add($"{names[i, j]}: {media[i, j]} Recupeção");
+
                     }
                     else if (media[i, j] <= 3)
                     {
                         ltbAlunos.Items.Add($"{names[i, j]}: {media[i, j]} Reprovado");
+
                     }
+
                 }
             }
+
+            /*for (int i = 0; i < 2; i++)
+            {
+                for (int j = 0; j < 5; j++)
+                {
+                    names[i, j] = txtNome.Text;
+                    p1[i, j] = int.Parse(txtP1.Text);
+                    p2[i, j] = int.Parse(txtP2.Text);
+                    p3[i, j] = int.Parse(txtP3.Text);
+                    t1[i, j] = int.Parse(txtT1.Text);
+
+                    media[i, j] = (p1[i, j] + p2[i, j] + p3[i, j] + t1[i, j]) / 4;
+                    if (media[i, j] >= 6)
+                    {
+                        ltbAlunos.Items.Add($"{names[i, j]}: {media[i, j]} Aprovado");
+                        
+                    }
+                    else if (media[i, j] >= 4)
+                    {
+                        ltbAlunos.Items.Add($"{names[i, j]}: {media[i, j]} Recupeção");
+                        
+                    }
+                    else if (media[i, j] <= 3)
+                    {
+                        ltbAlunos.Items.Add($"{names[i, j]}: {media[i, j]} Reprovado");
+                        
+                    }
+
+                }
+            }*/
         }
+        string[,] names = new string[2, 5];
+        int[,] p1 = new int[2, 5];
+        int[,] p2 = new int[2, 5];
+        int[,] p3 = new int[2, 5];
+        int[,] t1 = new int[2, 5];
+        int[,] media = new int[2, 5];
+        int c = 0;
+        int l = 0;
+        private void btnCarregaNome_Click(object sender, EventArgs e)
+        {
+            
+            if (l < 2 && c < 5)
+            {
+                names[c, l] = txtNome.Text;
+                p1[c, l] = int.Parse(txtP1.Text);
+                p2[c, l] = int.Parse(txtP2.Text);
+                p3[c, l] = int.Parse(txtP3.Text);
+                t1[c, l] = int.Parse(txtT1.Text);
 
 
+                txtNome.Clear();
+                txtP1.Clear();
+                txtP2.Clear();
+                txtP3.Clear();
+                txtT1.Clear();
+                txtNome.Focus();
+                c++;
+                if (c == 2)
+                {
+                    c = 0;
+                    l++;
+                }
+                
+            }
+            else
+            {
+                MessageBox.Show("Turma completa!");
+            }
+        }
     }
 }

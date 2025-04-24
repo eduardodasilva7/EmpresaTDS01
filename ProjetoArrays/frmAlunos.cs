@@ -105,21 +105,21 @@ namespace ProjetoArrays
             
             if (l < 2 && c < 5)
             {
-                names[c, l] = txtNome.Text;
-                p1[c, l] = int.Parse(txtP1.Text);
-                p2[c, l] = int.Parse(txtP2.Text);
-                p3[c, l] = int.Parse(txtP3.Text);
-                t1[c, l] = int.Parse(txtT1.Text);
+                names[l, c] = txtNome.Text;
+                p1[l, c] = int.Parse(txtP1.Text);
+                p2[l, c] = int.Parse(txtP2.Text);
+                p3[l, c] = int.Parse(txtP3.Text);
+                t1[l, c] = int.Parse(txtT1.Text);
 
-
+                c++;
                 txtNome.Clear();
                 txtP1.Clear();
                 txtP2.Clear();
                 txtP3.Clear();
                 txtT1.Clear();
                 txtNome.Focus();
-                c++;
-                if (c == 2)
+                
+                if (c == 5)
                 {
                     c = 0;
                     l++;

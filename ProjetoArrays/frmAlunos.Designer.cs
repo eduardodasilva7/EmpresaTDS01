@@ -44,7 +44,6 @@
             this.lblP1 = new System.Windows.Forms.Label();
             this.txtNome = new System.Windows.Forms.TextBox();
             this.lblNome = new System.Windows.Forms.Label();
-            this.btnCarregaNome = new System.Windows.Forms.Button();
             this.gpbDados.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -64,7 +63,7 @@
             this.btnSair.Location = new System.Drawing.Point(524, 492);
             this.btnSair.Name = "btnSair";
             this.btnSair.Size = new System.Drawing.Size(200, 57);
-            this.btnSair.TabIndex = 6;
+            this.btnSair.TabIndex = 9;
             this.btnSair.Text = "Sair";
             this.btnSair.UseVisualStyleBackColor = true;
             this.btnSair.Click += new System.EventHandler(this.btnSair_Click);
@@ -75,7 +74,7 @@
             this.btnLimpar.Location = new System.Drawing.Point(284, 492);
             this.btnLimpar.Name = "btnLimpar";
             this.btnLimpar.Size = new System.Drawing.Size(200, 57);
-            this.btnLimpar.TabIndex = 5;
+            this.btnLimpar.TabIndex = 8;
             this.btnLimpar.Text = "Limpar";
             this.btnLimpar.UseVisualStyleBackColor = true;
             this.btnLimpar.Click += new System.EventHandler(this.btnLimpar_Click);
@@ -86,14 +85,13 @@
             this.btnCarregaTurma.Location = new System.Drawing.Point(39, 492);
             this.btnCarregaTurma.Name = "btnCarregaTurma";
             this.btnCarregaTurma.Size = new System.Drawing.Size(200, 57);
-            this.btnCarregaTurma.TabIndex = 4;
+            this.btnCarregaTurma.TabIndex = 7;
             this.btnCarregaTurma.Text = "Carrega Turma";
             this.btnCarregaTurma.UseVisualStyleBackColor = true;
             this.btnCarregaTurma.Click += new System.EventHandler(this.btnCarregaTurma_Click);
             // 
             // gpbDados
             // 
-            this.gpbDados.Controls.Add(this.btnCarregaNome);
             this.gpbDados.Controls.Add(this.txtT1);
             this.gpbDados.Controls.Add(this.lblT1);
             this.gpbDados.Controls.Add(this.txtP3);
@@ -108,7 +106,7 @@
             this.gpbDados.Location = new System.Drawing.Point(13, 12);
             this.gpbDados.Name = "gpbDados";
             this.gpbDados.Size = new System.Drawing.Size(342, 381);
-            this.gpbDados.TabIndex = 7;
+            this.gpbDados.TabIndex = 0;
             this.gpbDados.TabStop = false;
             this.gpbDados.Text = "Carrege os dados";
             // 
@@ -118,7 +116,7 @@
             this.txtT1.MaxLength = 100;
             this.txtT1.Name = "txtT1";
             this.txtT1.Size = new System.Drawing.Size(100, 26);
-            this.txtT1.TabIndex = 9;
+            this.txtT1.TabIndex = 5;
             // 
             // lblT1
             // 
@@ -135,7 +133,7 @@
             this.txtP3.MaxLength = 100;
             this.txtP3.Name = "txtP3";
             this.txtP3.Size = new System.Drawing.Size(100, 26);
-            this.txtP3.TabIndex = 7;
+            this.txtP3.TabIndex = 4;
             // 
             // lblP3
             // 
@@ -152,7 +150,7 @@
             this.txtP2.MaxLength = 100;
             this.txtP2.Name = "txtP2";
             this.txtP2.Size = new System.Drawing.Size(100, 26);
-            this.txtP2.TabIndex = 5;
+            this.txtP2.TabIndex = 3;
             // 
             // lblP2
             // 
@@ -169,7 +167,7 @@
             this.txtP1.MaxLength = 100;
             this.txtP1.Name = "txtP1";
             this.txtP1.Size = new System.Drawing.Size(100, 26);
-            this.txtP1.TabIndex = 3;
+            this.txtP1.TabIndex = 2;
             // 
             // lblP1
             // 
@@ -196,17 +194,6 @@
             this.lblNome.Size = new System.Drawing.Size(51, 20);
             this.lblNome.TabIndex = 0;
             this.lblNome.Text = "Nome";
-            // 
-            // btnCarregaNome
-            // 
-            this.btnCarregaNome.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCarregaNome.Location = new System.Drawing.Point(26, 320);
-            this.btnCarregaNome.Name = "btnCarregaNome";
-            this.btnCarregaNome.Size = new System.Drawing.Size(136, 45);
-            this.btnCarregaNome.TabIndex = 8;
-            this.btnCarregaNome.Text = "Carrega Nome";
-            this.btnCarregaNome.UseVisualStyleBackColor = true;
-            this.btnCarregaNome.Click += new System.EventHandler(this.btnCarregaNome_Click);
             // 
             // frmAlunos
             // 
@@ -245,6 +232,5 @@
         private System.Windows.Forms.Label lblP3;
         private System.Windows.Forms.TextBox txtP2;
         private System.Windows.Forms.Label lblP2;
-        private System.Windows.Forms.Button btnCarregaNome;
     }
 }

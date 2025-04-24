@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "ProjetoArrays\\frmAlunos.Designer.cs",
               "ToolTip": "C:\\Users\\eduardo.dsilva17\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetoArrays\\frmAlunos.Designer.cs",
               "RelativeToolTip": "ProjetoArrays\\frmAlunos.Designer.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAswHIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-23T12:04:19.513Z",
               "EditorCaption": ""
@@ -51,9 +51,9 @@
               "Title": "frmAlunos.cs",
               "DocumentMoniker": "C:\\Users\\eduardo.dsilva17\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetoArrays\\frmAlunos.cs",
               "RelativeDocumentMoniker": "ProjetoArrays\\frmAlunos.cs",
-              "ToolTip": "C:\\Users\\eduardo.dsilva17\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetoArrays\\frmAlunos.cs",
-              "RelativeToolTip": "ProjetoArrays\\frmAlunos.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAAAG8AAAAQAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\eduardo.dsilva17\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetoArrays\\frmAlunos.cs*",
+              "RelativeToolTip": "ProjetoArrays\\frmAlunos.cs*",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAswHgAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T12:37:48.821Z",
               "EditorCaption": ""
@@ -64,8 +64,8 @@
               "Title": "frmAlunos.cs [Design]",
               "DocumentMoniker": "C:\\Users\\eduardo.dsilva17\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetoArrays\\frmAlunos.cs",
               "RelativeDocumentMoniker": "ProjetoArrays\\frmAlunos.cs",
-              "ToolTip": "C:\\Users\\eduardo.dsilva17\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetoArrays\\frmAlunos.cs [Design]",
-              "RelativeToolTip": "ProjetoArrays\\frmAlunos.cs [Design]",
+              "ToolTip": "C:\\Users\\eduardo.dsilva17\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetoArrays\\frmAlunos.cs [Design]*",
+              "RelativeToolTip": "ProjetoArrays\\frmAlunos.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T12:34:01.977Z",
               "EditorCaption": " [Design]"
@@ -79,8 +79,7 @@
               "ToolTip": "C:\\Users\\eduardo.dsilva17\\Documents\\Visual Studio 2022\\ProjetoCSharpParadaria\\ProjetoArrays\\frmMatrizes.cs [Design]",
               "RelativeToolTip": "ProjetoArrays\\frmMatrizes.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T11:14:58.91Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-22T11:14:58.91Z"
             }
           ]
         }
